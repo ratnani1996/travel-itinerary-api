@@ -19,7 +19,7 @@ For development and running this project locally, you’ll need:
 ## 🚀 Installation
 
 1. Clone this repository  
-   git clone https://github.com/ratnani1996/travel-itinerary-api.git
+   git clone https://github.com/ratnani1996/travel-itinerary-api.git \n
    cd travel-itinerary-api
 2. Install dependencies
     npm install
